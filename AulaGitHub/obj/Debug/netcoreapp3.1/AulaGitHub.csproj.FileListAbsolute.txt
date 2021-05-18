@@ -1,0 +1,13 @@
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\bin\Debug\netcoreapp3.1\AulaGitHub.exe
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\bin\Debug\netcoreapp3.1\AulaGitHub.deps.json
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\bin\Debug\netcoreapp3.1\AulaGitHub.runtimeconfig.json
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\bin\Debug\netcoreapp3.1\AulaGitHub.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\bin\Debug\netcoreapp3.1\AulaGitHub.dll
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\bin\Debug\netcoreapp3.1\AulaGitHub.pdb
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\obj\Debug\netcoreapp3.1\AulaGitHub.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\obj\Debug\netcoreapp3.1\AulaGitHub.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\obj\Debug\netcoreapp3.1\AulaGitHub.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\obj\Debug\netcoreapp3.1\AulaGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\obj\Debug\netcoreapp3.1\AulaGitHub.dll
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\obj\Debug\netcoreapp3.1\AulaGitHub.pdb
+C:\Users\Gabriel\source\repos\AulaGitHub\AulaGitHub\obj\Debug\netcoreapp3.1\AulaGitHub.genruntimeconfig.cache
