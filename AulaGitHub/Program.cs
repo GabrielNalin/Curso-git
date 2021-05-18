@@ -8,6 +8,7 @@ namespace AulaGitHub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("teste msg 1");
+            Console.WriteLine("teste msg 2");
         }
     }
 }
